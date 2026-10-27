@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">DREAMLOCK</string>
-    <string name="reels_monitor_label">Reels counter</string>
-    <string name="reels_monitor_description">Counts how many reels and shorts you watch, so DREAMLOCK can show you the number. It reads scroll events only, never any content.</string>
-</resources>

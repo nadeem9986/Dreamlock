@@ -1,1 +1,0 @@
-<resources><style name="Theme.DreamLock" parent="android:Theme.Material.Light.NoActionBar"><item name="android:windowBackground">@color/app_background</item><item name="android:statusBarColor">@color/app_background</item><item name="android:navigationBarColor">@color/app_background</item><item name="android:windowLightStatusBar">true</item></style></resources>
