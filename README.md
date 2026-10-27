@@ -58,7 +58,7 @@ DREAMLOCK is designed around how motivation actually works, not around punishmen
 - **Detection:** Usage Access plus display-over-other-apps overlay, with AccessibilityService evaluated against Google Play policy
 - **Distribution:** free for users, responsible monetization later (sponsorships, optional donations, non-intrusive ads)
 
-More detail in [docs/architecture.md](docs/architecture.md).
+More detail in [Docs/architecture.md](Docs/architecture.md).
 
 ## Project status
 
@@ -67,7 +67,7 @@ Early planning. Current work:
 - [x] Product concept and principles
 - [x] Feature backlog and prioritization
 - [ ] Architecture decisions
-- [ ] MVP scope locked ([docs/mvp-scope.md](docs/mvp-scope.md))
+- [ ] MVP scope locked ([Docs/mvp-scope.md](Docs/mvp-scope.md))
 - [ ] Throwaway prototype to prove app-launch detection and overlay on a real device
 - [ ] Early user tests with about 10 people
 
