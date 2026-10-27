@@ -1,0 +1,1 @@
+<resources><style name="Theme.DreamLock" parent="android:Theme.Material.NoActionBar"><item name="android:windowBackground">#101216</item><item name="android:statusBarColor">#101216</item><item name="android:navigationBarColor">#101216</item></style></resources>
