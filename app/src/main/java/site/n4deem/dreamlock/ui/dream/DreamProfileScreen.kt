@@ -125,7 +125,7 @@ fun DreamProfileScreen(container: AppContainer, dreamId: Long, onBack: () -> Uni
                         Text(
                             text = m.title,
                             style = MaterialTheme.typography.bodyMedium,
-                            color = if (m.doneAt != null) MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.onSurfaceVariant,
+                            color = if (m.doneAt != null) MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.onSurface,
                         )
                     }
                 }
@@ -147,7 +147,7 @@ fun DreamProfileScreen(container: AppContainer, dreamId: Long, onBack: () -> Uni
                         Text(
                             text = a.title,
                             style = MaterialTheme.typography.bodyMedium,
-                            color = if (a.doneAt != null) MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.onSurfaceVariant,
+                            color = if (a.doneAt != null) MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.onSurface,
                         )
                     }
                 }
